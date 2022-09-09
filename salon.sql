@@ -197,14 +197,14 @@ INSERT INTO public.services VALUES (6, 'Colour');
 -- Name: appointments_appointment_id_seq; Type: SEQUENCE SET; Schema: public; Owner: freecodecamp
 --
 
-SELECT pg_catalog.setval('public.appointments_appointment_id_seq', 12, true);
+SELECT pg_catalog.setval('public.appointments_appointment_id_seq', 45, true);
 
 
 --
 -- Name: customers_customer_id_seq; Type: SEQUENCE SET; Schema: public; Owner: freecodecamp
 --
 
-SELECT pg_catalog.setval('public.customers_customer_id_seq', 10, true);
+SELECT pg_catalog.setval('public.customers_customer_id_seq', 43, true);
 
 
 --
